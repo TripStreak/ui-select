@@ -1,11 +1,11 @@
 {
-  "name": "angular-ui-select",
-  "version": "0.16.1",
-  "homepage": "https://github.com/angular-ui/ui-select",
+  "name": "tripstreak-angular-ui-select",
+  "version": "0.16.2",
+  "homepage": "https://github.com/TripStreak/ui-select",
   "authors": [
     "AngularUI"
   ],
-  "description": "AngularJS ui-select",
+  "description": "TripStreak fork for AngularJS ui-select",
   "main": [
     "dist/select.js",
     "dist/select.css"
